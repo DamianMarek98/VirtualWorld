@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  Antylopa.cpp
+  Barszcz_Sosnowskiego.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Lis.cpp
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  PoprojoCpp.cpp
+c:\users\deny\desktop\studia\ii sem\po\poprojocpp\poprojocpp.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PustePole.cpp
+  Roslina.cpp
+  Swiat.cpp
+c:\users\deny\desktop\studia\ii sem\po\poprojocpp\swiat.cpp(28): warning C4101: 'b': unreferenced local variable
+  Trawa.cpp
+  Wilcz_Jagody.cpp
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  Generating Code...
+c:\users\deny\desktop\studia\ii sem\po\poprojocpp\zwierze.cpp(41): warning C4715: 'Zwierze::nastepny': not all control paths return a value
+c:\users\deny\desktop\studia\ii sem\po\poprojocpp\roslina.cpp(40): warning C4715: 'Roslina::nastepny': not all control paths return a value
+  PoprojoCpp.vcxproj -> C:\Users\Deny\Desktop\Studia\II Sem\PO\PoprojoCpp\Debug\PoprojoCpp.exe
